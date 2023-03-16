@@ -1,0 +1,18 @@
+# Dependency directories
+node_modules/
+
+# Typescript v1 declaration files
+typings/
+
+# Optional npm cache directory
+.npm
+
+# dotenv environment variables file
+.env
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+#database configs
+./src/database/config/config.json
