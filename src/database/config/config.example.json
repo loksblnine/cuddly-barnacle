@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "nutter01",
+    "database": "cuddly-barnacle",
+    "host": "localhost",
+    "dialect": "postgres"
+  }
+}
